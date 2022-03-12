@@ -1,63 +1,39 @@
-09/02/2022
--Yeni DLC Araçları eklendi.
--İşletmeler düzenlendi.
--Anti-Cheat Güncellendi(Fire rateciler bittiniz)
+11/03/2022
+-Pd bildirim sistemi güncellendi.
+-Kimliklere Parmak izi eklendi.
+-Artık h çekince kimlik ve ehliyet otomatik gelecek
+-Çalıntı pd araç bildirimleri güncellendi.
+-Bagajlar yükseltildi.
+-Kasaba tarafındaki ev soygunları kapatıldı
+-Belli sayıda faturanız olunca garajları ve çekilmişleri kullanamayacaksınız 
 
-19/01/2022
--Özel mülklere garajlar eklendi.
--Gereksiz garajlar kaldırıldı
--Büfe vb yerlere masalar eklendi.
--Silahçıların tezgahları güncelendi ve eksik olanlar eklendi.
+07/03/2022
+-Bir kaç araçda ayarlama yapıldı
+-Yeni PD binası eklendi.
+-Bazı yemeklerde oluşan animasyon sorunu düzeltildi
+-Uwuda bir kaç ayar yapıldı. :Galp: 
+-İnventorydeki oluşan hata kaldırıldı
+-Araçlara binince düz kontak sistemi aktif edildi.
+-Araçları maymuncuklama eklendi.
+-Log sistemi detaylandırıldı
+-Çık gir yapınca oluşan zırh sorunu düzeltildi.
+-PD araçları düzenlendi.
+-Oluşum menüden soyma kaldırıldı.
+-Alkollü içeceklerin animasyonu eklendi.
+-Kıyafet degistirince zirhin gitmesi ve canin dolması hatası düzeltildi
+-Zar atma komutu eklendi.
 
-07/01/2022
--İllegal silahlar kaldırıldı
--PD binası yeri değiştirildi.
--Silahlara sekme getirildi.
--Araçdayken ateş ederken artık fps moduna geçiyorsunuz
--Uwu cafe,pizza ve pd mekan kilitleri güncellendi.
--Pistol silahı bufflandı
--Mekanlara menü tabelaları eklendi.(Ayarlamaları yapılacak)
 
-
-03/01/2022
--Yeni telefon eklendi ve sunucuya entegre edildi.
--İşletmeler ve garajlar yenilendi.
--Marketlerde oluşan bir kaç hata fixlendi.
--Araçlarda oluşan hatalar fxilendi.
--Blackmarket kaldırıldı.
-
-07/12/2021
--Hastahane güncellendi.Yeri değiştirildi.(max fps)
--Hack için uyarı sistemi getirildi.Artık ben bilmiyordum diye ağlamak yok.
--Garajlar güncellendi.
--Unicorn güncellendi.
--Bahama güncellendi.
--Taco kapılar güncellendi.
-
-05/12/2021
--Nebula aracının handlingi fixlendi.
--Bazı donate araçların hızları sunucuya uygun hale getirilecek şekilde güncellendi.
--Polis dronlarına termal eklendi.
--PD Offroad benzeri araçlar eklendi.
--Bir donate aracında olan mermi bugı sebebiyle araçdan ateş etme devre dışı bırakıldı. 
-
-01/12/2021
--Polis bildirimleri güncellendi.
--Maymuncuklama süresi uzatıldı ve artık maymuncuk kullanılınca gidiyor.
--Donate araçların bazılarının hızları güncellendi.Güncellemeye devam ediliyor.
--Araçların havadayken kontrol sağlanması kapatıldı.
--Araç içinde mermi sekmesi kaldırıldı.
--1 adet malikhane kaldırıldı
-
-27/11/2021
--Showroomda bugda kalanlar için asansör getirildi.(Kötü niyetli kullanım uyarı almanıza sebep olur)
--İllegal işleme yerleri ayrıldı ve yerleri değiştirildi.
--İllegal işleme yerler 1'den fazla olacak şekilde ayarlandı
--2 adet malikhane güncellendi.
--Malikhaneler özel mülk olarak güncellendi.İçeriye birisi girdiği zaman kişiyi vurup ck talep edebiliyorsunuz.
--Galeri stok sorunu düzeltildi.Artık sadece kendi stoğunuzu görebileceksiniz.
--Aracı yarı fiyatına satış yerleri kapatıldı.
--Huddaki hata(lar) düzeltildi
-
-25/11/2021 
--2.Sezon Başlangıcı
+04/03/2022
+-Malikhaneler güncellendi.
+-Yeni garajlar eklendi.
+-Depoların oradaki silahçı npcsi artık muştanızı satın alabiliyor.
+-Crafta yeni eşye eklendi.
+-Bazı garajların çalışmaması düzenlendi.
+-Anti cheat bazı işlemler yapıldı
+-Kafelerde oluşan fatura sorunu düzenlendi.
+-Mekaniklerde oluşan craft hatası düzenlendi.
+-Arkası kapalı araçlarda geriye ateş etme engellendi(Bazı araçlar Gözümüzden kaçmış olabilir.Report edip kullanmayın)
+-Browninge silah çekme animasyonu eklendi. 
+-Log sistemi güncellendi ve detaylandırıldı.
+-Uçak garajı eklendi.(Normal araçlar için kullanmayın!)
