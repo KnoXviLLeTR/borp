@@ -1,3 +1,15 @@
+23-24/03/2022
+-SWAT araçları eklendi.
+-Hapishanedeki zaman sorgulama ve dışarı çıkma sorunu düzeltildi. NPC Gardiyana target tutmanız gerek.
+-Meth karavanı eklendi.
+-Combatlogla ilgili yeni bir şeyler eklendi. 
+-/aim komutu eklendi. /aim normal /aim gang /aim cowboy. (Her silahta çalışmaz)
+-DW Phone ile ilgili olan bir hata düzeltildi. 
+-Craft yaptığınız npc 1'e düşürüldü ve yeri değiştirildi.
+-Swat araçları düşük poly olarak güncellendi.Bu sayede fps artışı sağlandı
+-Swat karargahı eklendi
+-Bar'a tezgah eklendi.
+
 24/03/2022
 -Kıyafet dükkanları modernleştirildi.
 -Silahçıların blipleri ve mekanları modernleştirildi.
@@ -21,34 +33,3 @@
 -Bagajlar yükseltildi.
 -Kasaba tarafındaki ev soygunları kapatıldı
 -Belli sayıda faturanız olunca garajları ve çekilmişleri kullanamayacaksınız 
-
-07/03/2022
--Bir kaç araçda ayarlama yapıldı
--Yeni PD binası eklendi.
--Bazı yemeklerde oluşan animasyon sorunu düzeltildi
--Uwuda bir kaç ayar yapıldı. :Galp: 
--İnventorydeki oluşan hata kaldırıldı
--Araçlara binince düz kontak sistemi aktif edildi.
--Araçları maymuncuklama eklendi.
--Log sistemi detaylandırıldı
--Çık gir yapınca oluşan zırh sorunu düzeltildi.
--PD araçları düzenlendi.
--Oluşum menüden soyma kaldırıldı.
--Alkollü içeceklerin animasyonu eklendi.
--Kıyafet degistirince zirhin gitmesi ve canin dolması hatası düzeltildi
--Zar atma komutu eklendi.
-
-
-04/03/2022
--Malikhaneler güncellendi.
--Yeni garajlar eklendi.
--Depoların oradaki silahçı npcsi artık muştanızı satın alabiliyor.
--Crafta yeni eşye eklendi.
--Bazı garajların çalışmaması düzenlendi.
--Anti cheat bazı işlemler yapıldı
--Kafelerde oluşan fatura sorunu düzenlendi.
--Mekaniklerde oluşan craft hatası düzenlendi.
--Arkası kapalı araçlarda geriye ateş etme engellendi(Bazı araçlar Gözümüzden kaçmış olabilir.Report edip kullanmayın)
--Browninge silah çekme animasyonu eklendi. 
--Log sistemi güncellendi ve detaylandırıldı.
--Uçak garajı eklendi.(Normal araçlar için kullanmayın!)
